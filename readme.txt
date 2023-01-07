@@ -1,0 +1,1 @@
+Nous allons créer une Gallérie Photo qui display ou affiche les images.
